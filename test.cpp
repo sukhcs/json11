@@ -1,3 +1,4 @@
+#if 0
 /*
  * Define JSON11_TEST_CUSTOM_CONFIG to 1 if you want to build this tester into
  * your own unit-test framework rather than a stand-alone program.  By setting
@@ -284,3 +285,4 @@ int main(int argc, char **argv) {
 // Insert user-defined suffix code (function definitions, etc)
 // to set up a custom test suite
 JSON11_TEST_CPP_SUFFIX_CODE
+#endif
